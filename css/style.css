@@ -170,7 +170,11 @@ margin-bottom: 30px;
 margin-top: 60px;
 font-family: Raleway;
 color: #4aaf74;}
-
+#tctg
+{
+    color:#eeb70c;
+    font-size: 36px;
+}
 
 #image {
     margin-top: 50px;
@@ -968,6 +972,11 @@ margin-left: 60px;}
 
 
 }
+#picsadinyah
+{
+    margin-left: 600px;
+    margin-bottom: 30px;
+}
 
 #split {
     font-family: Raleway;
@@ -1339,6 +1348,20 @@ input[type=checkbox]+label {
     width: 450px;
 }
 /* ////INVENTORY!!//// */
+
+#refurbish
+{
+    font-family: Raleway;
+    margin-left: 60px;
+    margin-bottom: 30px;
+
+}
+#invbutton
+{
+    width: 100px;
+    font-family: Raleway;
+
+}
 
 .row1, .row2, .row3
 {

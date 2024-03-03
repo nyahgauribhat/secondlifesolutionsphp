@@ -61,17 +61,58 @@ include('header.php');
             </button></a>" ;
         }
       else{
-        echo "<a href= 'login.php'><button class='btn btn-secondary' type='button' aria-haspopup='true' aria-expanded='false'>
-        Login as Contributor to Add more Item
+        echo "<a href= 'login.php'><button class = 'btn btn-primary cont-btn' type='button' aria-haspopup='true' aria-expanded='false' id ='invbutton'>
+        Login to Add
           </button></a>" ;
       }
   ?>
-  
-    
-  
+  <br> <br>
+
 </div> 
-   
+<p class="tr">How to Refurbish Lost Items</p>
+<div id = "refurbish"> 
+Collect items from school/home at regular intervals <br> (For example, 1st week of Jan, Apr, Jul, Oct)
+<br> <br>
+To begin, segregate items into the categories we accept: <br><br>
+<ol type = "1"> 
+  <li>  Water bottles </li>
+  <li>Break boxes / Lunch tiffins</li>
+  <li>Empty notebooks</li>
+  <li>Pens</li>
+  <li>Pencils</li>
+  <li>Coloured pencils</li>
+  <li>Markers in working condition</li>
+  <li>Mixed Stationery - Erasers, sharpeners, rulers, compass box items, etc.</li>
+  <li>T-Shirts</li>
+  <li>Shorts</li>
+  <li>Gym tights</li>
+  <li>Sweatshirts</li>
+  <li>Sneakers</li>
+  <li> Raincoats</li>
+  <li>Umbrellas</li>
+  <li>Footballs</li>
+  <li>Basketballs</li> </ol> 
+  
+  <ul style="list-style-type:circle">
+<li> Clean / Wash and discard broken / unusable items</li> 
+
+<li> Tie shoes together in pairs, and put in individual plastic bags</li> 
+
+<li> Sharpen pencils and bundle together with rubber bands in groups of 12, each bundle counts as 1 item</li> 
+
+<li> Sharpen colour pencils and bundle together in groups of 12 with at least 8 different colours, each bundle counts as 1 item</li> 
+
+<li> Bundle markers together in groups of 12 with at least 8 different colours, each bundle counts as 1 item</li> 
+
+<li> Put mixed stationery in a zip lock bag, counts as 1 item</li> 
+
+<li> Fill air in basketballs / footballs</li> 
+
+<li> Count and add to inventory</li> 
+
     
+    </ul>
+    </div>
 </div>
 </div>
 

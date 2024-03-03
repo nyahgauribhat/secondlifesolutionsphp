@@ -3,8 +3,13 @@
 include('header.php');
 
 ?>
-<h1 id="sls101">Hi, I'm Nyah!<hr></h1> 
-<p class="tr">Why sweat the small stuff? </p>
+<h1 id="sls101">
+
+
+Hi! We're Nyah Bhat and Aditya Bhat, and we are twins.<hr></h1> 
+<div id = "picsadinyah" > <img src="./assets/nyahpic.jpeg" height = "200px" width = "130px"> 
+<img src="./assets/adipic.jpeg" height = "200px" width = "140px"> </div>
+
 
   <!-- <div id="mission2">
     <b>
@@ -16,20 +21,17 @@ include('header.php');
   </div>
   <div id="split">
       <p align = "justify">
+The idea for “SecondLife Solutions” came to us from many places. <br> <br>
+
+  From our older brother and our shared experiences...<br>Before we had reached double digits in age, our older brother, a teenager, would regularly lose his stuff in school. Visits to the School’s Lost Property Cupboards to retrieve his water bottles and pencil cases became a regular occurrence in his life. And so we learned about the huge amount of stuff in school he had to rummage through before he would find his lost item. Having experienced such a close association with the trials and tribulations of Lost Property, our brother initiated a lost property collection program in high school. Every 3 months he would do a sweep of our School’s Cupboards and then clean, segregate, box, and distribute the items. We used to head up pencil and colour pencil segregation, and sharpening duty and it was extremely gratifying to see a muddle of blunt-pointed pencils morph into organized bundles of sharpness and colour! <br> <br>
+
+From watching how effective a system can be to recycle and reduce waste, hugely...<br>Our mother’s passion for the environment has elevated waste disposal at our home to military meticulousness! Our non-recyclable garbage is negligible, thanks to our line-up of plastic-glass-metal-cardboard-paper-carton-electronic-compost bins. We now return 80% of the garbage bags (provided for free) by the building society as we have no use for them. <br> <br>
 
 
-
-Hi! We're Nyah and Aditya, and we are twins.<br><br>The idea for “SecondLife Solutions” came to us from many places. <br> <br>
-
-  From our older brother and our shared experiences...<br>Before we had reached double digits in age, our older brother, a teenager, would regularly loose his stuff in school. Visits to the School’s Lost Property Cupboards to retrieve his water bottles and pencil cases became a regular occurrence in his life. We, 6 years younger than him, hung on to his every word and action. And so we learned about the huge amount of stuff in school he had to rummage through before the moment when he would finally chance upon his lost item. Having experienced such a close association with the trials and tribulations of Lost Property, our brother initiated a lost property collection program in high school. Every 3 months he would do a sweep of our School’s Cupboards and then clean, segregate, box, and distribute the items. We used to head up pencil and colour pencil segregation, and sharpening duty and it was extremely gratifying to see a muddle of blunt-pointed pencils morph into organized bundles of sharpness and colour! <br> <br>
-
-From watching how effective a system can be to recycle and reduce waste, hugely...<br>Our mother’s passion for the environment has elevated waste disposal at our home to military meticulousness! Our non-recyclable garbage is negligible, thanks to our line-up of plastic-glass-metal-cardboard-paper-carton-electronic-compost bins! We now return 80% of the garbage bags (provided for free) by the building society as we have no use for them! <br> <br>
+From engaging with the community at large and recognizing the needs of the people in our diverse city...<br>During the Pandemic, vaccines were being introduced in Mumbai during March-April-May of 2021. The stringent stay-at-home-dictum had softened, and we were finally allowed to step out of our homes more freely. This new found freedom translated into a vaccine drive for those who inhabit our street – most of the watchmen and cleaners on our street were not able to navigate the ever-changing instructions given for registering to receive their first dose of the vaccine. And many of them did not own smartphones to do this on either. We helped over 150 people on our road get vaccinated, and in turn learned so much about the lives and their needs through engaging conversations. <br> <br>
 
 
-From engaging with the community at large and recognizing the needs of the people in our diverse city...<br>During the Pandemic, vaccines were being introduced in Mumbai during March-April-May of 2021. The stringent stay-at-home-dictum had softened, and we were finally allowed to step out of our homes more freely. This new found freedom translated into a vaccine drive for the folk who inhabit our street – Most of the watchmen and cleaners on our street were not able to navigate the ever-changing instructions given for registering to receive their first dose of the vaccine. And many of them did not own smartphones to do this on either. We helped 83 people on our road get vaccinated, and in turn learned so much about the lives and their needs through engaging conversations. <br> <br>
-
-
-Now, in the beginning of 2024, a year and a half since we have returned to full time school post the pandemic, the lost property cupboards are brimming again with the flotsam of school-going children’s’ lost stuff. Living in Mumbai, a city which attracts people from across India for its employment opportunities, we see a staggering amount of school-going kids who need help with daily school-going essentials. <br> <br>
+Now, in the beginning of 2024, a year and a half since we have returned to full time school post the pandemic, the lost property cupboards are brimming with lost stuff, once again. Living in Mumbai, a city which attracts people from across India for its employment opportunities, we see a staggering amount of school-going kids who need help with daily school-going essentials. <br> <br>
 
 
 Duty and Dream have converged and propelled us toward our goal: To reach out to South Mumbai’s deep coffers of lost property and offer the items up to those that would make good use of it. <br> <br>

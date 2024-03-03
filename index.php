@@ -20,7 +20,7 @@ include('header.php');
             towards the health of the planet by embedding environmentally
             sustainable practices into our routines. <br><br>Recognizing the power of
             collective action, we call upon students and teachers, schools and
-            NGOs, kids, teens, forever young adults and beyond to get involved
+            NGOs, teens and adults, and beyond to get involved
             with SecondLife Solutions.
           </p>
         </div>
@@ -29,7 +29,8 @@ include('header.php');
 
     <div id="whyus">
       <h1 id="sls101">SecondLife Solutions 101 <hr></h1> 
-      <p class="tr">Why Do We Exist?<br> To Close The Gap </p> 
+      <p class="tr">Why Do We Exist? </p> 
+      <p class="tr" id = "tctg">To Close The Gap  </p> 
       <div class="whyuscont">
         <div class="each">
           <img src="./assets/wu1.jpg" />
@@ -63,7 +64,7 @@ include('header.php');
           </p>
         </div>
       </div>
-      <p class="tr">To Be The Connection</p>
+      <p class="tr" id = "tctg">To Be The Connection</p>
       <p id="sentence">
         Our platform serves as the bridge that connects these unused resources
         with those that need them. 
@@ -75,7 +76,7 @@ include('header.php');
         A lost lunch box becomes a new meal...<br> A discarded uniform becomes a
         symbol for hope...<br> A pair of sneakers enables a football game...
       </p>
-      <p class="tr"><b> To Create Value</b></p>
+      <p class="tr"id = "tctg"><b> To Create Value</b></p>
       <div id="value">
         <p>When we salvage, distribute and give lost items a SecondLife, WE</p>
       </div>
@@ -199,7 +200,7 @@ By eliminating the air, water, soil and noise pollution that would result from m
     </div>
 
     <div id="largerthanentire">
-      <p class="tr"><b> To Have Impact</b></p>
+      <p class="tr"id = "tctg"><b> To Have Impact</b></p>
       <h1 id = "non"> A Narrative of Numbers</h1>
       <div id = "wh">
       <div id="members">

@@ -18,7 +18,7 @@ include('header.php');
             <h1> CONTRIBUTORS</h1>
             <div id="qs">
              IS your school overflowing with lost property? <br>
-                ARE you always looking around for a kid or institution 
+                ARE you always looking around for someone
                 that would make the best use of stuff you no
                 longer
                 need? <br>
