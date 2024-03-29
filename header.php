@@ -19,16 +19,33 @@
         <img src = "./assets/sls.png" width="350px"> 
     </header>
 
-    <div class="container teal borderYtoX">
-        <a href="index.php">HOME</a>
-        <a href="join.php">JOIN</a>
-        <a href = "donate.php">SUPPORT</a>
-        <a href = "inventory.php"> INVENTORY </a>
-        <a href="about.php">ABOUT US</a>
-        <a href="contact.php">CONTACT</a>
-       
+    <nav class="navbar navbar-expand-lg navbar-light bg-light justify-content-center">
+  <!-- <a class="navbar-brand" href="#">Navbar</a> -->
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
 
-        <?php
+  <div class="collapse navbar-collapse container teal borderYtoX " id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item">
+        <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="join.php">Join</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="donate.php">Support</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="inventory.php">Inventory</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="about.php">About Us</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="contact.php">Contact Us</a>
+      </li>
+      <?php
         session_start();
         if(!isset($_SESSION['emailID']) && !isset($_SESSION['distributor_emailID']))
             echo "<a href='contributor_login.php'>Contributor's Login</a>";
@@ -37,4 +54,18 @@
         if(isset($_SESSION['emailID']) || isset($_SESSION['distributor_emailID']))
             echo "<a href='logout.php'>Logout</a>";
 ?>
-    </div>
+    </ul>
+  </div>
+</nav>
+
+    <!-- <div class="container teal borderYtoX">
+        <a href="index.php">HOME</a>
+        <a href="join.php">JOIN</a>
+        <a href = "donate.php">SUPPORT</a>
+        <a href = "inventory.php"> INVENTORY </a>
+        <a href="about.php">ABOUT US</a>
+        <a href="contact.php">CONTACT</a>
+       
+
+      
+    </div> -->
