@@ -69,7 +69,7 @@ include('header.php');
   <br> <br>
 
 </div> 
-<p class="tr">How to Refurbish Lost Items</p>
+<p class="tr" id = "contactline">How to Refurbish Lost Items</p>
 <div id = "refurbish"> 
 Collect items from school/home at regular intervals <br> (For example, 1st week of Jan, Apr, Jul, Oct)
 <br> <br>

@@ -10,7 +10,7 @@ include('header.php');
        <div id ="withintotal"> <p> At SecondLife Solutions, we are always looking for sponsership help for transportation of items from contributors to distributors. <br>
 
 </p> 
-<div id = "humanitarianpic" ><img src = "./assets/Humanitarian.png"> </div>
+<div id = "humanitarianpic" ><img src = "./assets/Humanitarian.png" width = "350px"> </div>
 <p> We request your pledges for transportation charges in the following increments: <br> 
 Rs. 250 - 500<br> 
 Rs. 500 - 750<br> 

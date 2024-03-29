@@ -4,7 +4,7 @@ include('header.php');
 
 ?>
 <h1 id="sls101">Reach Out To Us <hr></h1> 
-<p class="tr"> With questions, suggestions and feedback!</p>
+<p class="tr" id = "contactline"> With questions, suggestions and feedback!</p>
   <div>
     <!-- <div class="container"> -->
     <!-- <div class="row">

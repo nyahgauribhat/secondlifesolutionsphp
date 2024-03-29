@@ -129,10 +129,6 @@ If this resonates with you, please involve yourself in this platform! We would l
   </section>
   <div id="myModal" class="reveal-modal" data-reveal> -->
 
-    <p class="lead"></p>
-    <p></p>
-    <a class="close-reveal-modal">&#215;</a>
-  </div>
 
   </div>
 

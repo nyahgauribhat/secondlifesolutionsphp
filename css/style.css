@@ -162,7 +162,25 @@ margin: 0 45px;
    font-family: Raleway;
 
 }
+.sls101main
+{ padding-left: 60px;
+    margin-top: 60px;
+    margin-right: 60px;
+    margin-bottom: 45px;
+   font-size: 50px;
+   font-family: Raleway;
+   color: #27d1a8;
+
+}
 .tr
+{padding-left: 60px;
+font-size: 40px;
+font-weight: 600;
+margin-bottom: 30px;
+margin-top: 60px;
+font-family: Raleway;
+color: #4aaf74;}
+.tr2
 {padding-left: 60px;
 font-size: 40px;
 font-weight: 600;
@@ -491,66 +509,13 @@ video {
     display:flex;
 }
 
-@media screen and (max-width: 728px) {
-    #text {
-        margin-left: 30px;
-        margin-right: 30px;
-    }
 
-    @media screen and (max-width: 728px) {
-        #mission {
-            margin-left: 10px;
-            margin-right: 10px;
-            line-height: 1.2;
-            font-size: 50px;
+/* for mobile devices */
+
+
     
-        }
-    }
 
-    @media screen and (max-width: 728px) {
-        #whyus {
-            margin-left: 10px;
-            margin-right: 10px;
-            line-height: 50.2px;
-        }
-    }
-
-    @media screen and (max-width: 728px) {
-        #it {
-            margin-left: 10px;
-            margin-right: 10px;
-            line-height: 50.2px;
-        }
-    }
-
-    @media screen and (max-width: 728px) {
-        .btn-5 {
-            width: 200px;
-             height: 60px;
-            line-height: 4px;
-            margin-left: 90px;
-            margin-top: 90px;
-        }
-    }
-
-    @media screen and (max-width: 728px) {
-        #like {
-            font-size: 10px;
-        }
-    }
-
-    @media screen and (max-width: 728px) {
-        #getinv {
-            font-size: 30px;
-        }
-    }
-
-    @media screen and (max-width: 728px) {
-        #wh {
-            flex-direction: column;
-        }
-    }
-}
+   
 /* The flip card container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
 .flip-card{
      background-color:transparent;
@@ -948,11 +913,7 @@ margin-left: 60px;}
     transition: 800ms ease all;
 }
 
-@media screen and (max-width: 728px) {
-    #types {
-        flex-direction: column;
-    }
-}
+
 
 /* /////join ending////*/
 
@@ -1067,20 +1028,7 @@ margin-left: 60px;}
     transition: all 0.35s;
 }
 
-@media screen and (max-width: 728px) {
-    #mission2 {
-        margin-left: 10px;
-        margin-right: 10px;
-    }
-}
 
-@media screen and (max-width: 728px) {
-    #as {
-        margin-left: 10px;
-        margin-right: 10px;
-        font-size: 20px;
-    }
-}
 
 #image1 {
     height: 100px;
@@ -1211,11 +1159,7 @@ textarea:valid~label {
     border-radius: 4px;
 }
 
-@media only screen and (max-width: 768px) {
-    .styled-input {
-        width: 100%;
-    }
-}
+
 
 .styled-input label {
     color: black;
@@ -1299,13 +1243,7 @@ textarea {
         0 1px 1px 0 rgba(0, 0, 0, 0.09);
 }
 
-@media (max-width: 768px) {
-    .submit-btn {
-        width: 100%;
-        /* float: none; */
-        text-align: center;
-    }
-}
+
 
 input[type=checkbox]+label {
     color: black;
@@ -1391,23 +1329,7 @@ footer span {
 
 }
 
-@media screen and (min-width: 728px) {
-    #form {
-        width: 300px;
 
-    }
-
-    #submitbtn input {
-     
-        width: 200px;
-        background-color: #eeb70c;
-        margin-left: 150px;
-    }
-
-    .entirec {
-        text-align: center;
-    }
-}
 
 /*////contact us ending///////*/
 /* donate starting*/
@@ -1746,7 +1668,6 @@ ul {
 
 .footer-cta {
     border-bottom: 1px solid #5d8ea5;
-    display: flex;
 
 }
 .single-cta

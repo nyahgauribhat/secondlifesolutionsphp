@@ -18,18 +18,19 @@ include('header.php');
             lost and found items from local schools with children and educators
             in underserved communities and NGOs.<br><br> Our mission is to contribute
             towards the health of the planet by embedding environmentally
-            sustainable practices into our routines. <br><br>Recognizing the power of
+            sustainable practices into our routines.
+             <!-- <br><br>Recognizing the power of
             collective action, we call upon students and teachers, schools and
             NGOs, teens and adults, and beyond to get involved
-            with SecondLife Solutions.
+            with SecondLife Solutions. -->
           </p>
         </div>
       </div>
     </div>
 
     <div id="whyus">
-      <h1 id="sls101">SecondLife Solutions 101 <hr></h1> 
-      <p class="tr">Why Do We Exist? </p> 
+      <h1 class = "sls101main">SecondLife Solutions 101 <hr></h1> 
+      <p class="tr2">Why Do We Exist? </p> 
       <p class="tr" id = "tctg">To Close The Gap  </p> 
       <div class="whyuscont">
         <div class="each">
@@ -81,8 +82,8 @@ include('header.php');
         <p>When we salvage, distribute and give lost items a SecondLife, WE</p>
       </div>
 
-
-    <div id="row1">
+<div class="row">
+    
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front" id="front1">
@@ -139,8 +140,7 @@ By eliminating the air, water, soil and noise pollution that would result from m
           </div>
         </div>
       </div>
-    </div>
-    <div id="row1">
+      <div class="row">
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front" id="front4">
@@ -198,7 +198,6 @@ By eliminating the air, water, soil and noise pollution that would result from m
         </div>
       </div>
     </div>
-
     <div id="largerthanentire">
       <p class="tr"id = "tctg"><b> To Have Impact</b></p>
       <h1 id = "non"> A Narrative of Numbers</h1>
@@ -208,6 +207,9 @@ By eliminating the air, water, soil and noise pollution that would result from m
               <span id="less"> Community Members</span>
             </div>
 <div> 
+    </div>
+</div>
+
 <div id="items">
               <div class="value" nyah="347"></div>
 
