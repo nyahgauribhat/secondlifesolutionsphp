@@ -20,7 +20,7 @@ include('header.php');
         <div class = "entirec"><span class = "inputtypes">Email: </span> <br> <input type = "email"class = "contactinput" name = "emailid"></div>
         <div class = "entirec"><span class = "inputtypes">Mobile Number: </span> <input type = "number"class = "contactinput" name = "mob"></div>
         <div class = "entirec"><span class = "inputtypes">Address:</span> <input type = "text"class = "contactinput" name = "address"></div>
-        <div id = "submitbtn"> <input type = "submit" name= "save">  </div>
+        <div id = "submitbtn"> <input type = "submit" name= "save" id = "submitbtninput">  </div>
 </form>
     
 </body>

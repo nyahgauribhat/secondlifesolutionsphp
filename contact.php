@@ -53,7 +53,7 @@ include('header.php');
 	<div class = "entireform"><h4 class = "inputtypes">Email: </h4>  <input type = "email"class = "contactinput" name = "emailid"></div>
 	<div class = "entireform"><h4 class = "inputtypes">Mobile Number: </h4> <input type = "number"class = "contactinput" name = "mob"></div>
 	<div class = "entireform"><h4 class = "inputtypes">Message:</h4> <input type = "text"class = "contactinput" name = "message"></div>
-	<div id = "submitbtn"> <input type = "submit" name= "save">  </div>
+	<div id = "submitbtn"> <input type = "submit" name= "save" id = "contactsubmit">  </div>
 </form>
   </div>
   <?php

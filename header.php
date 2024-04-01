@@ -21,14 +21,14 @@
 
     <nav class="navbar navbar-expand-lg navbar-light bg-light justify-content-center">
   <!-- <a class="navbar-brand" href="#">Navbar</a> -->
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
+  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
 
-  <div class="collapse navbar-collapse container teal borderYtoX " id="navbarSupportedContent">
+  <div class="collapse navbar-collapse container teal borderYtoX" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
       <li class="nav-item">
-        <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
+        <a class="nav-link" href="index.php">Home <span class="sr-only"></span></a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="join.php">Join</a>
@@ -53,7 +53,7 @@
             echo "<a href='distributor_login.php'>Distributor's Login</a>";
         if(isset($_SESSION['emailID']) || isset($_SESSION['distributor_emailID']))
             echo "<a href='logout.php'>Logout</a>";
-?>
+    ?>
     </ul>
   </div>
 </nav>

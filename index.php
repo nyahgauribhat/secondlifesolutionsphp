@@ -102,6 +102,7 @@ include('header.php');
           </div>
         </div>
       </div>
+
       <div class="flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front" id="front2">
@@ -140,6 +141,7 @@ By eliminating the air, water, soil and noise pollution that would result from m
           </div>
         </div>
       </div>
+</div> 
       <div class="row">
       <div class="flip-card">
         <div class="flip-card-inner">
@@ -197,31 +199,29 @@ By eliminating the air, water, soil and noise pollution that would result from m
           </div>
         </div>
       </div>
-    </div>
+</div>
     <div id="largerthanentire">
       <p class="tr"id = "tctg"><b> To Have Impact</b></p>
       <h1 id = "non"> A Narrative of Numbers</h1>
-      <div id = "wh">
+<div id = "wh">
       <div id="members">
               <div class="value" nyah="65"></div>
               <span id="less"> Community Members</span>
             </div>
-<div> 
-    </div>
-</div>
+
 
 <div id="items">
               <div class="value" nyah="347"></div>
 
               <span id="less"> Items distributed </span>
             </div>
-</div>
-<div> 
 <div id="childrenhelped">
               <div class="value" nyah="55"></div>
 
               <span id="less"> Children Helped</span>
             </div>
+
+
 </div>
 
 </div>
@@ -266,7 +266,7 @@ By eliminating the air, water, soil and noise pollution that would result from m
         </div>
       </div>
     </div> -->
-    <div id="entireimpact"></div>
+    <!-- <div id="entireimpact"></div> -->
     <div id="gi">
       <a href="join.php"
         ><button class="custom-btn btn-5">
@@ -277,14 +277,14 @@ By eliminating the air, water, soil and noise pollution that would result from m
         </button></a
       >
     </div>
+    </div>
+
     <?php
 
 include('footer.php');
 
 ?>
-
-
-    <script src="js/script.js"></script>
+ <script src="js/script.js"></script>
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <script>
       AOS.init();
@@ -298,6 +298,12 @@ include('footer.php');
       src="https://kit.fontawesome.com/18824d66d9.js"
       crossorigin="anonymous"
     ></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+  
+
+
   </body>
 </html>
 

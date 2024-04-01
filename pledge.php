@@ -18,7 +18,7 @@ include('header.php');
         <div class = "entirec"> <span class = "inputtypes">Name: </span> <input type = "text" class = "contactinput" name = "firstname"> </div>
         <div class = "entirec"><span class = "inputtypes">Email: </span> <br> <input type = "email"class = "contactinput" name = "emailID"></div>
         <div class = "entirec"><span class = "inputtypes">Pledge Amount: </span> <input type = "number"class = "contactinput" name = "pledgamt"></div>
-        <div id = "submitbtn"> <input type = "submit" name= "save">  </div>
+        <div id = "submitbtn"> <input type = "submit" name= "save" id = "submitbtninput">  </div>
 </form>
     
 </body>

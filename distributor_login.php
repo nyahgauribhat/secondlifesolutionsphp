@@ -16,7 +16,7 @@ include('header.php');
 <h1 id="sls101">Login for Distributors<hr></h1> 
     <form id ="cform" method = "post"> 
         <div class = "entirec"><span class = "inputtypes">Email: </span>  <input type = "email"class = "contactinput" name = "emailid"></div>
-        <div id = "submitbtn"> <input type = "submit" name= "save">  </div>
+        <div id = "submitbtn"> <input type = "submit" name= "save" id = "submitbtnio">  </div>
 </form>
     
 </body>
