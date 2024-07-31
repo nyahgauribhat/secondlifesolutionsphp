@@ -12,7 +12,7 @@ $mob1 = $_POST["mob"];
 // echo "$mob1 <br>";
 $msg= $_POST["message"];
 // echo "$msg <br>";
-$conn = mysqli_connect("localhost", "root", "", "sls");
+$conn = mysqli_connect("localhost", "u399519417_nyah", "xD0>j5ioF", "u399519417_secondlife");
 if($conn)
 echo "connectiion built successfully";
 else 

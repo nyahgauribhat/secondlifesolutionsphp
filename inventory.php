@@ -12,7 +12,7 @@ include('header.php');
 
     <div id = "cop"> 
         <?php
-         $conn = mysqli_connect("localhost", "root", "", "sls");
+       $conn = mysqli_connect("localhost", "u399519417_nyah", "xD0>j5ioF", "u399519417_secondlife");
         $sql = "select i.ID, i.categoryName, i.qty, i.contributorID, c.firstName, c.address FROM inventory i inner join contributor c on i.contributorID = c.ID"; 
         // $sql = "select * from inventory";
         //$sql = "select id, categoryName, sum(qty) as qty FROM inventory group by categoryName";
