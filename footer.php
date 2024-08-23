@@ -46,7 +46,7 @@
               <div class="footer-widget">
                 <div class="footer-logo">
                   <a href="index.php">
-                    <img src="./assets/sls.png" class="img-fluid" alt="logo"/></a>
+                    <img src="./assets/envirofound.png" class="img-fluid" alt="logo"/></a>
                 </div>
                 <div class="footer-text">
                  <div class = "ft" > 

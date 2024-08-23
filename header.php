@@ -16,7 +16,7 @@
 
 <body>
     <header>
-        <img src = "./assets/sls.png" width="350px"> 
+        <img src = "./assets/envirofound.png" width="350px"> 
     </header>
 
     <nav class="navbar navbar-expand-lg navbar-light bg-light justify-content-center">
