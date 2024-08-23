@@ -7,7 +7,7 @@ include('header.php');
       <div>
       <h1 id="sls101">Support Our Platform <hr></h1> 
       <p class="tr">We would really appreciate your help! <br> Get involved in our platform as a humanitarian. </p> 
-       <div id ="withintotal"> <p> At SecondLife Solutions, we are always looking for sponsership help for transportation of items from contributors to distributors. <br>
+       <div id ="withintotal"> <p> At Envirofound, we are always looking for sponsership help for transportation of items from contributors to distributors. <br>
 
 </p> 
 <div id = "humanitarianpic" ><img src = "./assets/Humanitarian.png" width = "350px"> </div>

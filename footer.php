@@ -99,7 +99,7 @@ And toss them right into The SecondLife Solutions Website! <br>
           <div class="row">
             <div class="col-xl-6 col-lg-6 text-center text-lg-left">
               <div class="copyright-text">
-                <p>Copyright 2023 All Rights Reserved by SecondLifeSolutions</p>
+                <p>Copyright 2023 All Rights Reserved by Envirofound, under SecondLifeSolutions</p>
               </div>
             </div>
           </div>

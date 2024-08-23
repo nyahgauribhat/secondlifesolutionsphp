@@ -46,7 +46,7 @@
               <div class="footer-widget">
                 <div class="footer-logo">
                   <a href="index.php">
-                    <img src="./assets/sls.png" class="img-fluid" alt="logo"/></a>
+                    <img src="./assets/envirofound.png" class="img-fluid" alt="logo"/></a>
                 </div>
                 <div class="footer-text">
                  <div class = "ft" > 
@@ -99,7 +99,7 @@ And toss them right into The SecondLife Solutions Website! <br>
           <div class="row">
             <div class="col-xl-6 col-lg-6 text-center text-lg-left">
               <div class="copyright-text">
-                <p>Copyright 2023 All Rights Reserved by SecondLifeSolutions</p>
+                <p>Copyright 2023 All Rights Reserved by EnviroFound</p>
               </div>
             </div>
           </div>

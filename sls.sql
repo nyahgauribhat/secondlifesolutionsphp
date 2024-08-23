@@ -39,7 +39,7 @@ INSERT INTO `categories` (`categoryName`) VALUES
 ('Breakboxes'),
 ('Conloured pencils'),
 ('Empty notebooks'),
-('Erases'),
+('Erasers'),
 ('Pencils'),
 ('Pens'),
 ('Rulers'),
@@ -137,7 +137,7 @@ CREATE TABLE `inventory` (
 
 INSERT INTO `inventory` (`ID`, `categoryName`, `qty`, `contributorID`) VALUES
 (2, 'Breakboxes', 10, 1),
-(3, 'Erases', 15, 1),
+(3, 'Erasers', 15, 1),
 (4, 'Pens', 10, 3),
 (5, 'Pens', 10, 4);
 

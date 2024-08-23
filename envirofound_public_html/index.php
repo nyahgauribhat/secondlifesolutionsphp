@@ -14,7 +14,7 @@ include('header.php');
       <div class="centered">
         <div id="textmis">
           <p align="justify">
-            SecondLife Solutions is a community-driven platform which connects
+            EnviroFound, under SecondLifeSolutions, is a community-driven platform which connects
             lost and found items from local schools with children and educators
             in underserved communities and NGOs.<br><br> Our mission is to contribute
             towards the health of the planet by embedding environmentally
@@ -29,7 +29,7 @@ include('header.php');
     </div>
 
     <div id="whyus">
-      <h1 class = "sls101main">SecondLife Solutions 101 <hr></h1> 
+      <h1 class = "sls101main">EnviroFound 101 <hr></h1> 
       <p class="tr2">Why Do We Exist? </p> 
       <p class="tr" id = "tctg">To Close The Gap  </p> 
       <div class="whyuscont">

@@ -33,7 +33,7 @@ your friends and your own home. <br>
 to our guide found on the
 Inventory page.<br>
 4. Enter these items into
-SecondLife Solutions' Inventory.<br> 5. Once your items are requested by a Distributor, put them in a carton and label with the 
+EnviroFound's Inventory.<br> 5. Once your items are requested by a Distributor, put them in a carton and label with the 
 Distributor's name and address.<br>6. Courier these to the Distributor yourself, or request sponsership for the Courier charges.<br>
  
                   <!-- Button trigger modal -->
@@ -61,7 +61,7 @@ kids? <br><br><br>
                 
                     As a Distributor, you would:  <br>
                     1. Register with us. <br> 2. Gain
-access to SecondLife Solution's constantly
+access to EnviroFound's constantly
 evolving inventory. <br>
 4. Choose the items needed
 from the 
