@@ -21,7 +21,7 @@ Hi! We're Nyah Bhat and Aditya Bhat, and we are twins.<hr></h1>
   </div>
   <div id="split">
       <p align = "justify">
-The idea for “Envirovibes” came to us from many places. <br> <br>
+The idea for EnviroFound came to us from many places. <br> <br>
 
   From our older brother and our shared experiences...<br>Before we had reached double digits in age, our older brother, a teenager, would regularly lose his stuff in school. Visits to the School’s Lost Property Cupboards to retrieve his water bottles and pencil cases became a regular occurrence in his life. And so we learned about the huge amount of stuff in school he had to rummage through before he would find his lost item. Having experienced such a close association with the trials and tribulations of Lost Property, our brother initiated a lost property collection program in high school. Every 3 months he would do a sweep of our School’s Cupboards and then clean, segregate, box, and distribute the items. We used to head up pencil and colour pencil segregation, and sharpening duty and it was extremely gratifying to see a muddle of blunt-pointed pencils morph into organized bundles of sharpness and colour! <br> <br>
 
