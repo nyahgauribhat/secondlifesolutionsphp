@@ -16,7 +16,7 @@ include('header.php');
 <body>
 <?php 
 $id = $_GET['ID'];
-$conn = mysqli_connect("localhost", "u399519417_nyah", "xD0>j5ioF", "u399519417_secondlife");
+$conn = mysqli_connect(""localhost", "u399519417_nyah", "Nyah@123", "u399519417_envirofound"");
         $sql = "delete from inventory where ID = $id";
         if(mysqli_query($conn, $sql))
         header("Location: inventory.php");

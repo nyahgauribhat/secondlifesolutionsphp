@@ -14,7 +14,7 @@ include('header.php');
    
     if(isset($_SESSION['emailID']))
       {  
-        $conn = mysqli_connect("localhost", "u399519417_nyah", "xD0>j5ioF", "u399519417_secondlife");
+        $conn = mysqli_connect("localhost", "u399519417_nyah", "Nyah@123", "u399519417_envirofound");
         $sql = "select * from categories";
         $result = mysqli_query($conn, $sql);
 ?>

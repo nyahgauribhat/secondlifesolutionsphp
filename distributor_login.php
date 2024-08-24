@@ -26,7 +26,7 @@ include('header.php');
     if(isset($_POST["save"]))
     {
         $ei = $_POST["emailid"];
-        $conn = mysqli_connect("localhost", "u399519417_nyah", "xD0>j5ioF", "u399519417_secondlife");
+        $conn = mysqli_connect("localhost", "u399519417_nyah", "Nyah@123", "u399519417_envirofound");
         // if($conn)
         // echo "connection built successfully";
         // else 
