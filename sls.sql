@@ -37,7 +37,7 @@ CREATE TABLE `categories` (
 
 INSERT INTO `categories` (`categoryName`) VALUES
 ('Breakboxes'),
-('Conloured pencils'),
+('Coloured pencils'),
 ('Empty notebooks'),
 ('Erasers'),
 ('Pencils'),
