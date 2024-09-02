@@ -659,12 +659,14 @@ background-color: #38b8f4;
 {
     border: 1px solid #4aaf74;
     padding: 20px;
+    
    
     
 }
 .inventorytable
 {
     margin-bottom: 20px;
+    margin-left: -150px;
 }
 /* #slsimage
 {

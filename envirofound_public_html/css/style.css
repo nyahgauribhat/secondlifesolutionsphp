@@ -238,11 +238,10 @@ color: #4aaf74;}
     display: flex;
     margin-top: 20px;
     margin-bottom: 20px;
-    justify-content: space-around;
     color: black;
     width: 1350px;
     font-family: Raleway;
-    margin-left: 60px;
+    margin-left: 255px;
     border-radius: 20px;
     margin-bottom: 90px;
 }
@@ -709,7 +708,6 @@ background-color: #38b8f4;
 
 #why {
     font-family: Raleway;
-
     text-align: center;
     line-height: 2;
     padding-bottom: 20px;

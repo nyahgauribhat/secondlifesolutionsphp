@@ -208,19 +208,11 @@ By eliminating the air, water, soil and noise pollution that would result from m
               <div class="value" nyah="12"></div>
               <span id="less"> Community Members</span>
             </div>
-
-
-<!--<div id="items">-->
-<!--              <div class="value" nyah="347"></div>-->
-
-<!--              <span id="less"> Items distributed </span>-->
-<!--            </div>-->
 <div id="childrenhelped">
               <div class="value" nyah="347"></div>
 
               <span id="less">  Items distributed</span>
             </div>
-
 
 </div>
 
