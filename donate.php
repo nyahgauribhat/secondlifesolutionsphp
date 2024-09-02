@@ -7,16 +7,16 @@ include('header.php');
       <div>
       <h1 id="sls101">Support Our Platform <hr></h1> 
       <p class="tr">We would really appreciate your help! <br> Get involved in our platform as a humanitarian. </p> 
-       <div id ="withintotal"> <p> At Envirofound, we are always looking for sponsership help for transportation of items from contributors to distributors. <br>
+       <div id ="withintotal"> <p> At EnviroFound, we are always looking for sponsership help for transportation of items from contributors to distributors. <br>
 
 </p> 
 <div id = "humanitarianpic" ><img src = "./assets/Humanitarian.png" width = "350px"> </div>
 <p> We request your pledges for transportation charges in the following increments: <br> 
-Rs. 250 - 500<br> 
-Rs. 500 - 750<br> 
-Rs. 750 - 1000<br> 
-Rs. 1000 - 1500</p> 
-<p> When we have a shipment that needs sponsorship for delivery, we will reach out to you! 
+Rs. 250 <br> 
+Rs. 500 <br> 
+Rs. 750 <br> 
+Rs. 1000</p> 
+<p> When we have a shipment that needs sponsorship for delivery, we will reach out to you, and request you to add the amount, directly, to the courier company's balance. We will share the courier's name and a verification code to facilitate the same. 
  <br> <br>Thank you for your large heart!</p></div>
 </div> 
 <div id ="pledgebtn">

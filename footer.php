@@ -16,8 +16,8 @@
               <div class="single-cta">
                 <i class="far fa-envelope-open"></i>
                 <div class="cta-text">
-                  <h4>MAIL US</h4>
-                  <span>ngb@secondlifesolutions.com</span>
+                  <h4>EMAIL US</h4>
+                  <span>support@envirofound.com</span>
                 </div>
               </div>
             </div>

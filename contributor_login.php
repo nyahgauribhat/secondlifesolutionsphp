@@ -13,7 +13,10 @@ include('header.php');
     <title>Contributor Login</title>
 </head>
 <body>
-<h1 id="sls101">Login for Contributors<hr></h1> 
+<h1 id="sls101">Login for Contributors to add Inventory<br></h1> 
+<p class="tr" id = "contactline"> If not registered, please do so from our <a href="join.php">Join Page</a></p>
+
+<hr>
     <form id ="cform" method = "post"> 
         <div class = "entirec"><span class = "inputtypes">Email: </span>  <input type = "email"class = "contactinput" name = "emailid"></div>
         <div id = "submitbtn"> <input type = "submit" name= "save" id = "submitbtnio">  </div>

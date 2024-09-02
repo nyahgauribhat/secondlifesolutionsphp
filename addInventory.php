@@ -1,7 +1,7 @@
 <?php
 
 include('header.php');
-//session_start();
+session_start();
 ?>
 
 
@@ -18,8 +18,9 @@ include('header.php');
         $sql = "select * from categories";
         $result = mysqli_query($conn, $sql);
 ?>
-<form action='addInventory.php' method = 'post'>
-<label>Select a Category</label>
+<div >
+<form action='addInventory.php' method = 'post' style="padding:20; border:2px"> <br/>
+<label>Select an Item </label>
 <select name="Category">
 <?php
         while($row = $result->fetch_assoc()) 
@@ -32,9 +33,12 @@ include('header.php');
       }
       ?>
       </select>
-      <label>Quantity Required :</label> <input type = "number"name="qty">
-      <input type = "submit" name= "save"> 
+      <br/><br/>
+      <!--<label>Quantity Available </label> <input type = "number" name="qty"><br><br/>-->
+      <!--<label style="color:black; font-size:16px">Remarks </label> <input type = "text" name="remarks" placeholder="Please Specify the size (Only if you are submitting clothing) "><br/><br/>-->
+      <input type = "submit" name= "save"> <br><br><br>
     </form>
+</div>
       <?php
     }
   ?>
@@ -44,12 +48,15 @@ include('header.php');
   if(isset($_POST["save"]))
   {
   $Category = $_POST["Category"];
-  $qty = $_POST["qty"];
+//   $remarks = $_POST["remarks"];
+//   $qty = $_POST["qty"];
  
-  $conn = mysqli_connect("localhost", "root", "", "sls");
+        $conn = mysqli_connect("localhost", "u399519417_nyah", "Nyah@123", "u399519417_envirofound");
   $ID = $_SESSION['ID'];
-   $sql = "insert into inventory(categoryName, qty, contributorID) values('$Category', '$qty', '$ID')";
-//   echo "$sql";
+ //  $sql = "insert into inventory(categoryName, remarks, qty, contributorID) values('$Category', '$remarks', '$qty', '$ID')";
+
+   $sql = "insert into inventory(categoryName, contributorID) values('$Category', '$ID')";
+  //echo "$sql";
   if (mysqli_query($conn, $sql)) {
     header("Location: inventory.php");
      } else {

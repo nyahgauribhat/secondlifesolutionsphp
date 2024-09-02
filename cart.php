@@ -2,7 +2,7 @@
 <?php
 
 include('header.php');
-//session_start();
+session_start();
 ?>
 
 <!DOCTYPE html>
@@ -15,9 +15,14 @@ include('header.php');
 </head>
 <body>
 <?php 
+
 $id = $_GET['ID'];
-$conn = mysqli_connect(""localhost", "u399519417_nyah", "Nyah@123", "u399519417_envirofound"");
-        $sql = "delete from inventory where ID = $id";
+$good_id = str_replace('?', '', $id);
+
+$did = $_GET['DID'];
+//echo"$good_id and $did";
+        $conn = mysqli_connect("localhost", "u399519417_nyah", "Nyah@123", "u399519417_envirofound");
+        $sql = "update inventory set status = 'selected', distributorID= $did where ID = $good_id";
         if(mysqli_query($conn, $sql))
         header("Location: inventory.php");
         else 

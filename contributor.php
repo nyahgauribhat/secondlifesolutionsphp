@@ -1,7 +1,7 @@
 <?php
 
 include('header.php');
-//session_start();
+session_start();
 ?>
 
 <!DOCTYPE html>
@@ -15,11 +15,11 @@ include('header.php');
 <body>
 
     <form id ="cform" method = "post" action = "addcontributor.php"> 
-        <div class = "entirec"> <span class = "inputtypes">Name: </span> <input type = "text" class = "contactinput" name = "fname"> </div>
+        <div class = "entirec"> <span class = "inputtypes">Contact Person: </span> <input type = "text" class = "contactinput" name = "fname"> </div>
         <div class = "entirec"> <span class = "inputtypes">Organisation Name (If applicable): </span> <input type = "text" class = "contactinput" name = "oname"> </div>
         <div class = "entirec"><span class = "inputtypes">Email: </span> <br> <input type = "email"class = "contactinput" name = "emailid"></div>
         <div class = "entirec"><span class = "inputtypes">Mobile Number: </span> <input type = "number"class = "contactinput" name = "mob"></div>
-        <div class = "entirec"><span class = "inputtypes">Address:</span> <input type = "text"class = "contactinput" name = "address"></div>
+        <div class = "entirec"><span class = "inputtypes">Pick-up Address:</span> <input type = "text"class = "contactinput" name = "address"></div>
         <div id = "submitbtn"> <input type = "submit" name= "save" id = "submitbtninput">  </div>
 </form>
     

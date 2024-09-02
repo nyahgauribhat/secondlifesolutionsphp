@@ -13,7 +13,8 @@ include('header.php');
     <title>Distributor Login</title>
 </head>
 <body>
-<h1 id="sls101">Login for Distributors<hr></h1> 
+<h1 id="sls101">Login for Distributors to request Inventory<br></h1> 
+<p class="tr" id = "contactline"> If not registered, please do so from our <a href="join.php">Join Page</a></p>
     <form id ="cform" method = "post"> 
         <div class = "entirec"><span class = "inputtypes">Email: </span>  <input type = "email"class = "contactinput" name = "emailid"></div>
         <div id = "submitbtn"> <input type = "submit" name= "save" id = "submitbtnio">  </div>
@@ -41,7 +42,7 @@ include('header.php');
             echo "Welcome ".$row["firstName"] ;
            $emailID =  $row["emailID"];
             $_SESSION['distributor_emailID']=$emailID;
-            $_SESSION['ID']=$row["ID"];
+            $_SESSION['DID']=$row["ID"];
             echo $_SESSION['emailID'];
             // echo "<tr><td>".$row["ID"]."</td><td>".$row["firstName"]." </td><td>".$row["oName"]."</td><td>".$row["emailID"]."</td> <td>".$row["mobNum"]."</td><td>".$row["address"]."</td> </tr>";
         }

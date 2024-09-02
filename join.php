@@ -12,18 +12,18 @@ include('header.php');
          <div><img src = "./assets/2.3.png"id ="j23"height= "300px"> </div> -->
     <!-- </div> --> 
     <h1 id="sls101">Join Our Platform <hr></h1> 
-    <p class="tr">Our success is driven by community.<br>Become a contributor or a distributor of lost items! </p>
+    <p class="tr">Our success is driven by community involvement.<br>Become a contributor or a distributor of lost items! </p>
     <div id="types">
         <div id="con">
-            <h1> CONTRIBUTORS</h1>
+            <h1> CONTRIBUTOR</h1>
             <div id="qs">
-             IS your school overflowing with lost property? <br>
+             IS your organization overflowing with lost property? <br>
                 ARE you always looking around for someone
                 that would make the best use of stuff you no
                 longer
                 need? <br>
                DO you grapple with how to find an efficient solution to this issue? <br><br>
-               <b>  If so, join as a Contributor! </b><br><br>
+               <b>  If so, join us as a Contributor! </b><br><br>
                 
                    As a Contributor, you would: <br>
                    1. Register with us.<br> 2. Gather lost property or items no
@@ -32,9 +32,8 @@ your friends and your own home. <br>
 3. Gently refurbish these according
 to our guide found on the
 Inventory page.<br>
-4. Enter these items into
-EnviroFound's Inventory.<br> 5. Once your items are requested by a Distributor, put them in a carton and label with the 
-Distributor's name and address.<br>6. Courier these to the Distributor yourself, or request sponsership for the Courier charges.<br>
+4. Enter these items into EnviroFound's inventory.<br> 
+5. Once your items have been requested by a Distributor, EnviroFound will reach out to you with further details.<br>
  
                   <!-- Button trigger modal -->
 <a href = "contributor.php"><button type="button" id ="joinbuttons" class="btn btn-primary cont-btn" data-bs-toggle="modal" data-bs-target="#exampleModal">
@@ -49,7 +48,7 @@ Distributor's name and address.<br>6. Courier these to the Distributor yourself,
 
     <!-- </div> -->
     <div id="dis">
-            <h1> DISTRIBUTORS</h1>
+            <h1> DISTRIBUTOR</h1>
             <div id="qs">
                 ARE you an NGO / School working with underserved kids?<br>
                 DO you need everyday
@@ -57,15 +56,13 @@ essentials for your kids?<br>
 DO you face budget constraints
 in replacing these items for your
 kids? <br><br><br>
-                <b> If so, join as a Distributor! </b> <br><br>
+                <b> If so, join us as a Distributor! </b> <br><br>
                 
                     As a Distributor, you would:  <br>
                     1. Register with us. <br> 2. Gain
 access to EnviroFound's constantly
 evolving inventory. <br>
-4. Choose the items needed
-from the 
-inventory. <br> 5. These items will be shipped to you by our Contributors or our Humanitarians.<br><br>
+4. Choose items needed from EnviroFound's inventory. <br> 5. EnviroFound will reach out to you to cordinate delivery.<br><br><br><br>
                 
 <a href = "distributor.php"> <button type="button" id ="joinbuttons"class="btn btn-primary cont-btn" data-bs-toggle="modal" data-bs-target="#exampleModal2">
     Become a Distributor Now!

@@ -166,7 +166,7 @@ By eliminating the air, water, soil and noise pollution that would result from m
         <div class="flip-card-inner">
           <div class="flip-card-front" id="front5">
             <img
-              src="./assets/Education.svg"
+              src="./assets/education.svg"
               id="cardimages"
               width="“380px”"
               height="”380px"
@@ -205,20 +205,20 @@ By eliminating the air, water, soil and noise pollution that would result from m
       <h1 id = "non"> A Narrative of Numbers</h1>
 <div id = "wh">
       <div id="members">
-              <div class="value" nyah="65"></div>
+              <div class="value" nyah="12"></div>
               <span id="less"> Community Members</span>
             </div>
 
 
-<div id="items">
+<!--<div id="items">-->
+<!--              <div class="value" nyah="347"></div>-->
+
+<!--              <span id="less"> Items distributed </span>-->
+<!--            </div>-->
+<div id="childrenhelped">
               <div class="value" nyah="347"></div>
 
-              <span id="less"> Items distributed </span>
-            </div>
-<div id="childrenhelped">
-              <div class="value" nyah="55"></div>
-
-              <span id="less"> Children Helped</span>
+              <span id="less">  Items distributed</span>
             </div>
 
 

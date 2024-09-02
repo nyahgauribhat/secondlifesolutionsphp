@@ -20,6 +20,10 @@ include('header.php');
         <div class = "entirec"><span class = "inputtypes">Pledge Amount: </span> <input type = "number"class = "contactinput" name = "pledgamt"></div>
         <div id = "submitbtn"> <input type = "submit" name= "save" id = "submitbtninput">  </div>
 </form>
-    
+    <?php
+
+include('footer.php');
+
+?>
 </body>
 </html>
