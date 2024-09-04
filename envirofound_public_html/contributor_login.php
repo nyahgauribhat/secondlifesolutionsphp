@@ -42,6 +42,7 @@ include('header.php');
            $emailID =  $row["emailID"];
             $_SESSION['emailID']=$emailID;
             $_SESSION['ID']=$row["ID"];
+            $_SESSION['firstName']=$row["firstName"];
             echo $_SESSION['emailID'];
             // echo "<tr><td>".$row["ID"]."</td><td>".$row["firstName"]." </td><td>".$row["oName"]."</td><td>".$row["emailID"]."</td> <td>".$row["mobNum"]."</td><td>".$row["address"]."</td> </tr>";
         }

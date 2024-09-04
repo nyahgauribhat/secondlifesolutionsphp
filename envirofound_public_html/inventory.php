@@ -8,6 +8,9 @@ session_start();
 
 
 <body>
+  
+$_SESSION['firstName']=$row["firstName"];
+
 <h1 id="sls101">Our Current Inventory <hr></h1> 
 
     <div id = "cop"> 

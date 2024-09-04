@@ -12,7 +12,7 @@ if(isset($_POST["save"]))
     $sql = "insert into pledge(firstname, emailID, pledgeamt) values('$x', '$ei', '$mob1')";
     echo "$sql";
     if (mysqli_query($conn, $sql)) {
-        header("Location: support.php");
+        header("Location: donate.php");
     } else {
         echo "Error : ";
     }

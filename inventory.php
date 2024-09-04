@@ -8,6 +8,12 @@ session_start();
 
 
 <body>
+<?php
+        if(isset($_SESSION['emailID']))
+                {
+                  echo "<h1> $_SESSION['firstName']</h1>";
+
+                 }
 <h1 id="sls101">Our Current Inventory <hr></h1> 
 
     <div id = "cop"> 
@@ -16,7 +22,7 @@ session_start();
         $sql = "select i.ID, i.categoryName, i.remarks, i.qty, i.contributorID, c.firstName, c.oName, c.address FROM inventory i inner join contributor c on i.contributorID = c.ID where status = 'open'"; 
         // $sql = "select * from inventory";
         //$sql = "select id, categoryName, sum(qty) as qty FROM inventory group by categoryName";
-
+        
         // echo "$sql";
          $result = mysqli_query($conn, $sql);
          echo "<table class = 'inventorytable' border='1' cellspacing='4'> 
